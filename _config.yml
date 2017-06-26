@@ -18,7 +18,7 @@ title: Empthi
 subtitle: "Empathy based relationships"
 url: "http://gbates.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/empthi"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
